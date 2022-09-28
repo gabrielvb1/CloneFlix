@@ -1,10 +1,9 @@
 # CloneFlix
-Clone simples do Netflix com apenas Javascript, HTML e CSS
-
+Clone simples do Netflix com apenas Javascript, HTML e CSS.
+A página exibe os dados que são requisitados da API tMDB (https://tmdb-proxy.cubos-academy.workers.dev)
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/104026230/192800035-4e6b379d-dbe2-4c98-af37-f0e3b0d9a34d.png">
 
-A página exibe os dados que são requisitados da API tMDB (https://tmdb-proxy.cubos-academy.workers.dev)
 
 
 ## Funcionalidades:
