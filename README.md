@@ -28,5 +28,12 @@ Após clicar em um cartas do filmes, abre-se um modal com detalhes do filme como
 
 ### Highlight do dia:
 A página também possui uma seção de Highlight do Dia que destaca um filme e que, se clicado, redireciona o usuário para o trailer daquele filme.
+
 <img width="830" alt="image" src="https://user-images.githubusercontent.com/104026230/192803346-2cfad19a-93ee-40bb-b736-8c84c2e78740.png">
+
+### Modo noturno:
+Também é possível alterar o tema da página de claro para escuro ou vice-versa. Basta clicar no ícone de sol/lua no canto superior direito.
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/104026230/192804186-63f40e5b-8663-4a6f-99a2-56e1bb0abd74.png">
+
 
